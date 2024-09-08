@@ -1,6 +1,6 @@
 # Oie, me chamo Felipe
 
-Sou um estudante de progamação, sou entusiasta da área de design gráfico, inteligência artificial e programação de jogos. A cada dia estudo mais para explorar esse infinito mundo de tecnologia
+Sou um estudante de progamação, sou entusiasta da área de design gráfico, inteligência artificial e programação de jogos. A cada dia estudo mais para explorar esse infinito mundo de tecnologia.
 
 ### TECNOLOGIAS ESTUDADAS
 
